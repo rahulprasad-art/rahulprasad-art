@@ -17,7 +17,7 @@ I’m a Software Engineer with experience in AI/ML, AR robotics, and data-driven
     📊 SQL & Power BI Data Analysis – Automated business performance tracking, reducing manual processing time by 40%
     🤖 AR Robotics with HoloLens – Gesture-based robotic interaction with real-time data processing
 
-💬 Let’s Connect! I love collaborating on AI, AR, and data-driven projects. Feel free to check out my repositories, contribute, or reach out!
+💬 Let’s Connect! Feel free to check out my repositories, contribute, or reach out!
 
 <!---
 rahulprasad-art/rahulprasad-art is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
